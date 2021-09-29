@@ -247,6 +247,10 @@ nav {
   margin-bottom: 20px;
 }
 
+.margin40 {
+  margin-bottom: 40px;
+}
+
 .wrap {
   flex-wrap: wrap;
 }
