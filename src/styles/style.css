@@ -155,7 +155,7 @@ a {
   z-index: 2;
 }
 
-header > div > img {
+.header-div-img {
   top: 55px;
   right: -270px;
 
