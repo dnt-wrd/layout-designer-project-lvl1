@@ -273,93 +273,100 @@ nav {
 }
 
 .px52 {
-  margin: 0;
-  padding: 0;
-
-  font-weight: normal;
   font-size: 52px;
-  font-family: 'Neucha', cursive;
-
-  font-style: normal;
   line-height: 1.2em;
 }
 
-.footer-div {
-  padding: 50px 70px;
+/**
+.px52 {
 
-  background-color: #42413c;
+margin: 0;
+padding: 0;
+
+font-weight: normal;
+font-size: 52px;
+font-family: 'Neucha', cursive;
+
+font-style: normal;
+line-height: 1.2em;
+}
+**/
+.footer-div {
+padding: 50px 70px;
+
+background-color: #42413c;
 }
 
 .center {
-  align-items: center;
+align-items: center;
 }
 
 .footer-text {
-  font-size: 36px;
-  font-family: 'Neucha', cursive;
-  line-height: 1.2;
+font-size: 36px;
+font-family: 'Neucha', cursive;
+line-height: 1.2;
 }
 
 .mail {
-  display: inline-block;
+display: inline-block;
 
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 1.6;
+font-weight: bold;
+font-size: 18px;
+line-height: 1.6;
 }
 
 .margin-bottom8 {
-  margin-bottom: 8px;
+margin-bottom: 8px;
 }
 
 .mail-input {
-  flex: 1;
-  height: 50px;
-  padding: 15px;
+flex: 1;
+height: 50px;
+padding: 15px;
 
-  border: 1px solid #e3e3e3;
+border: 1px solid #e3e3e3;
 }
 
 .mail-input::placeholder {
-  font-size: 18px;
-  line-height: 1.6;
+font-size: 18px;
+line-height: 1.6;
 
-  opacity: 0.2;
+opacity: 0.2;
 }
 
 .btn-subscribe {
-  width: 70px;
-  height: 50px;
+width: 70px;
+height: 50px;
 }
 
 .send {
-  position: relative;
+position: relative;
 }
 
 .send::before {
-  position: absolute;
+position: absolute;
 
-  top: 50%;
-  left: 50%;
+top: 50%;
+left: 50%;
 
-  transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
 
-  content: url('../images/send.svg');
+content: url('../images/send.svg');
 }
 
 .sub-rule {
-  font-size: 12px;
-  line-height: 1.6;
+font-size: 12px;
+line-height: 1.6;
 }
 
 .line {
-  text-decoration: underline;
+text-decoration: underline;
 }
 
 .footer-in-footer {
-  margin-top: 60px;
+margin-top: 60px;
 
-  font-size: 14px;
+font-size: 14px;
 
-  text-align: center;
+text-align: center;
 }
