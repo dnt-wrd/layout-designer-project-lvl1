@@ -21,6 +21,12 @@ html {
   src: url("../fonts/OpenSans-Regular.ttf");
 }
 
+@font-face {
+  font-weight: 700;
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-Regular.ttf");
+}
+
 .orange {
   color: #fe8a02;
 }
