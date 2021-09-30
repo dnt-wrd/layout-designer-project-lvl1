@@ -246,7 +246,7 @@ body {
 .nav-link {
   box-sizing: border-box;
   padding: 24px;
-  margin-top: -10px;
+  margin-top: 20px;
 
   background-color: #f5f4f0;
 }
