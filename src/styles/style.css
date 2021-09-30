@@ -9,24 +9,6 @@ html {
   line-height: 1.6em;
 }
 
-@font-face {
-  font-weight: 400;
-  font-family: "Neucha";
-  src: url("../fonts/Neucha-Regular.ttf");
-}
-
-@font-face {
-  font-weight: 400;
-  font-family: "Open Sans";
-  src: url("../fonts/OpenSans-Regular.ttf");
-}
-
-@font-face {
-  font-weight: 700;
-  font-family: "Open Sans";
-  src: url("../fonts/OpenSans-Regular.ttf");
-}
-
 .orange {
   color: #fe8a02;
 }
