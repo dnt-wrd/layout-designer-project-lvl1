@@ -81,6 +81,11 @@ h5 {
   text-transform: uppercase;
 }
 
+.minus {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
 a {
   color: inherit;
   text-decoration: none;
