@@ -360,7 +360,7 @@ body {
 }
 
 .footer-in-footer {
-  margin-top: 60px;
+  margin-top: 70px;
 
   font-size: 14px;
 
@@ -370,4 +370,10 @@ body {
 .img-size {
   width: 578px;
   height: 434px;
+}
+
+.footer-in-footer a {
+  color: #1085c5;
+
+  text-decoration: underline;
 }
