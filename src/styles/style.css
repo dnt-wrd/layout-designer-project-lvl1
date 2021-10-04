@@ -289,7 +289,7 @@ body {
 }
 
 .footer-div {
-  padding: 50px 70px;
+  padding: 40px 70px;
 
   background-color: #42413c;
 }
@@ -307,7 +307,6 @@ body {
 .mail {
   display: inline-block;
 
-  font-weight: bold;
   font-size: 18px;
   line-height: 1.6;
 }
